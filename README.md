@@ -1,6 +1,10 @@
 # Bamboo's Lightweight Events
 
-A small header-only C++17 library for C#-style events
+A small header-only C++17 library for C#-style events.
+
+Background
+---
+Hello, and thanks for reading this! To give some background, I picked up C++ and C# at roughly the same time, and I thought to myself: "Wow C#'s event driven programming sure is cool, wonder if C++ supports it?". Of course everyone knows that C++ drives event-driven programming via the use of function pointers, functors and binded member functions. So over the years while studying game development in polytechnic and university, this event library has grown with me into what I'm proudly presenting as **Bamboo's Lightweight Events**!
 
 Example Use Case
 ---
